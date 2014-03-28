@@ -1,0 +1,6 @@
+1. When page loads, only div.mainContent is visible
+2. div.overlay slides in from the right of the page
+3. clicking on the "close" button on div.overlay cause div.overlay to slide back (leaving a 20px x 50px "minimized" tab on the right of the window)
+4. clicking on the minimized tab, the div slides in from the right again
+5. clicking on the "center" button moves the div.overlay to the center of the page
+6. div.overlay should always be on top layer of the page
